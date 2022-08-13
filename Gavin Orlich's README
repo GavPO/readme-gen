@@ -1,0 +1,32 @@
+# README Generator
+
+## Description
+    
+Dynamically generated a README file from the command line.
+    
+## Table of Contents
+    
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+    
+## Installation
+    
+Download the files, and then run the program in node
+    
+## Usage
+    
+After running the program, enter the desired information into the command line and a README will be generated for you.
+    
+## Credits
+    
+GitHub: (https://github.com/GavPO)
+
+
+    
+## License
+    
+![License Badge](https://badgen.net/github/license/micromatch/micromatch)
+    
+---

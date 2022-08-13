@@ -1,5 +1,4 @@
 // TODO: Include packages needed for this application
-const fs = require('fs');
 const inquirer = require('inquirer');
 const {questions} = require('./questions.js');
 const generateREADME = require('./writeFile.js')

@@ -21,10 +21,25 @@ const questions = [
         message: "What would a good description for your project be?"
     },
     {
+        type: "input",
+        name: "install",
+        message: "What are the installation instructions?"
+    },
+    {
+        type: "input",
+        name: "usage",
+        message: "How do you use this app?"
+    },
+    {
+        type: "input",
+        name: "credits",
+        message: "What else would you like to put in your credits?"
+    },
+    {
         type: "list",
         name: "lisc",
         message: "What kind of license would you like?",
-        choices: ["mit", "gnu", "apache"]
+        choices: ["mit", "gpl", "apache"]
     }
 ];
 
