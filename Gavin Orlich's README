@@ -2,7 +2,7 @@
 
 ## Description
     
-Dynamically generated a README file from the command line.
+Generated a README file from the command line
     
 ## Table of Contents
     
@@ -13,11 +13,11 @@ Dynamically generated a README file from the command line.
     
 ## Installation
     
-Download the files, and then run the program in node
+Download the files and run the program in node
     
 ## Usage
     
-After running the program, enter the desired information into the command line and a README will be generated for you.
+After running the program, enter the desired information and a README will be generated for you
     
 ## Credits
     

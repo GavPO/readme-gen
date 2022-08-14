@@ -1,4 +1,4 @@
-// TODO: Create an array of questions for user input
+// Create an array of questions for user input
 const questions = [
     {
         type: "input",
@@ -9,6 +9,11 @@ const questions = [
         type: "input",
         name: "userName",
         message: "What is your GitHub Username?"
+    },
+    {
+        type: "input",
+        name: "email",
+        message: "What is your email address?"
     },
     {
         type: "input",
@@ -43,4 +48,5 @@ const questions = [
     }
 ];
 
+// EXPORT THE QUESTIONS TO BE USED IN index.js 
 module.exports = {questions};
