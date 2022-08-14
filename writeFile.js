@@ -35,7 +35,7 @@ ${response.usage}
 ## Credits
     
 GitHub: (https://github.com/${response.userName})
-Email Me: (mailto:${response.email})
+[Email Me](mailto:${response.email})
 
 ${response.credits}
     
